@@ -110,6 +110,8 @@ Width:100%;
 #services{
     margin: 34px;
     display: flex;
+Width:100%;
+
 }
 #services .box{ 
     border: 2px solid brown;

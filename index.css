@@ -19,6 +19,8 @@ html{
     align-items: center;
     position: sticky;
     top: 0px;
+Width:100%;
+
 }
 
 #navbar::before{
@@ -162,6 +164,7 @@ html{
 /* Contact Section */
 #contact{
     position: relative;
+Width:100%;
 }
 #contact::before{
     content: "";
@@ -178,6 +181,7 @@ html{
     justify-content: center;
     align-items: center;
     padding-bottom: 34px;
+
 }
 #contact-box input, 
 #contact-box textarea{
